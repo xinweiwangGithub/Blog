@@ -1,0 +1,25 @@
+
+> blog@0.0.0 start /var/www/html/web07/zizuo/19blog
+> node ./bin/www
+
+Thu, 28 Jul 2016 23:25:38 GMT express-session deprecated undefined resave option; provide resave option at app.js:15:9
+Thu, 28 Jul 2016 23:25:38 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:15:9
+
+> blog@0.0.0 start /var/www/html/web07/zizuo/19blog
+> node ./bin/www
+
+Thu, 28 Jul 2016 23:25:53 GMT express-session deprecated undefined resave option; provide resave option at app.js:15:9
+Thu, 28 Jul 2016 23:25:53 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:15:9
+[0mGET / [36m304 [0m12.533 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.510 ms - -[0m
+[0mGET / [36m304 [0m2.731 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.809 ms - -[0m
+[0mGET / [32m200 [0m2.578 ms - 703[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.255 ms - 784[0m
+[0mGET /favicon.ico [33m404 [0m1.280 ms - 2111[0m
+
+> blog@0.0.0 start /var/www/html/web07/zizuo/19blog
+> node ./bin/www
+
+Thu, 25 Aug 2016 00:07:41 GMT express-session deprecated undefined resave option; provide resave option at app.js:15:9
+Thu, 25 Aug 2016 00:07:41 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:15:9
